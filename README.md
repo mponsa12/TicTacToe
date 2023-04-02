@@ -1,16 +1,20 @@
-# Description
-Tic-tac-toe is a game in which two players take turns in drawing either an ` O' or an ` X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
+# TicTacToe
+Tic-tac-toe és un joc on dos jugadors han de dibuixar, per torns, una 'X' o una 'O' de manera que estiguin en línia recta (horitzontal, vertical o diagonal).
+
+![ImatgeJOC](https://upload.wikimedia.org/wikipedia/commons/3/32/Tic_tac_toe.svg)
 
 
-
-# Installation
-Make sure you have JDK installed. 
-
-If not, run the downloaded installer, accept the defaults and follow the screen instructions to complete the installation.
-(https://www.oracle.com/es/java/technologies/downloads/).
-
-
+# Requirements / Installation 
+* Instal·lar el JDK
+  * **PAS 1** Executar l'[instal·lador](https://www.oracle.com/java/technologies/downloads/)
+  * **PAS 2** Definir les [variables d'entorn](https://javiermartinalonso.github.io/java/2016/11/06/java-Variables-Entorno-JAVA.html)
+* Terminal (per exemple, cmd)
+* Fitxer compilat (*TicTacToe.java*)
 
 # Usage
+Obra el terminal i executa la següent comanda:
+```
+java TicTacToe.java
+```
 
-Open Windows Terminal and execute the file using the following command: java tictactoe.java
+## Ja pots començar a jugar! ♣
